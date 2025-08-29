@@ -1,0 +1,21 @@
+[{
+	"Author": "Latihas",
+	"Name": "SkyEye",
+	"InternalName": "SkyEye",
+	"AssemblyVersion": "7.1.5.2",
+	"Description": "改版SkyEye",
+	"ApplicableVersion": "any",
+	"Tags": [],
+	"DalamudApiLevel": 12,
+	"LoadRequiredState": 0,
+	"LoadSync": false,
+	"CanUnloadAsync": false,
+	"LoadPriority": 0,
+	"IconUrl": "",
+	"Punchline": "ULK工具",
+	"AcceptsFeedback": true,
+	"RepoUrl": "https://github.com/Latihas/SkyEye",
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
+	"DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
+	"DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip"
+}]
