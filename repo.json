@@ -2,7 +2,7 @@
 	"Author": "Latihas",
 	"Name": "SkyEye",
 	"InternalName": "SkyEye",
-	"AssemblyVersion": "7.3.1.3",
+	"AssemblyVersion": "7.3.1.5",
 	"Description": "改版SkyEye，原作者0x",
 	"ApplicableVersion": "any",
 	"Tags": [],
@@ -38,4 +38,33 @@
 	"DownloadLinkInstall": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/LatihasExport.zip",
 	"DownloadLinkTesting": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/LatihasExport.zip",
 	"DownloadLinkUpdate": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/LatihasExport.zip"
+},{
+  "Author": "iVeigar",
+  "Name": "BAHelper",
+  "InternalName": "BAHelper",
+  "AssemblyVersion": "1.3.1.1",
+  "Description": " 这是一个兵武塔的辅助插件，有一些实用功能\n\n - 自动上盾\n - 绘制陷阱\n - 全局人员监控\n 以及一些魔改小功能",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/iVeigar/BAHelper",
+  "Tags": [
+    "Eureka"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    ""
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/iVeigar/MyDalamudPlugins/master/plugins/BAHelper/images/icon.png",
+  "Punchline": "QoL for the Baldesion Arsenal",
+  "Changelog": "",
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/BAHelper.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/BAHelper.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/BAHelper.zip"
 }]
