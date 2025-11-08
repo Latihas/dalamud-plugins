@@ -88,7 +88,7 @@
 	"Author": "apetih, Dragonw2333",
 	"Name": "Logogram Helper Ex (CN)",
 	"InternalName": "LogogramHelperEx",
-	"AssemblyVersion": "1.2.4.1",
+	"AssemblyVersion": "1.2.4.2",
 	"Description": "提供Eureka文理合成预设功能，支持预设一键提取并合成（实验性，仅支持国服）",
 	"ApplicableVersion": "any",
 	"RepoUrl": "https://github.com/iVeigar/LogogramHelperEx",
