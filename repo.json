@@ -158,10 +158,14 @@
       "crafting"
     ],
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
-    "DalamudApiLevel": 14,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/Artisan.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/Artisan.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/Artisan.zip",
-    "ChangeLog": "- More Raphael tweaks."
+    "AcceptsFeedback": true,
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0
   }
 ]
