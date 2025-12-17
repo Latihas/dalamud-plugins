@@ -131,5 +131,21 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0
+},{
+    "Author": "Taurenkey (Puni.sh)",
+    "Name": "Artisan",
+    "Punchline": "A 'simple' crafting plugin.",
+    "Description": "The all-in-one crafting plugin.7.4初期紧急使用，无7.4的配方",
+    "InternalName": "Artisan",
+    "ApplicableVersion": "any",
+    "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+    "Tags": [
+        "crafting"
+    ],
+    "RepoUrl": "https://github.com/PunishXIV/Artisan",
+    "DalamudApiLevel": 14,
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/Artisan.zip",
+    "ChangeLog":  "- More Raphael tweaks."
 }
+
 ]
