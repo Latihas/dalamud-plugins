@@ -185,7 +185,10 @@
         "achievement"
     ],
     "RepoUrl": "https://github.com/Jukkales/HoardFarm",
-    "IconUrl": "https://github.com/Jukkales/HoardFarm/raw/main/icon.png"
+    "IconUrl": "https://github.com/Jukkales/HoardFarm/raw/main/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/HoardFarm.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/HoardFarm.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/HoardFarm.zip"
 }
 
 ]
