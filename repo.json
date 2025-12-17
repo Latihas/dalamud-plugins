@@ -167,5 +167,25 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0
-  }
+  },{
+    "Author": "Jukkales",
+    "Name": "HoardFarm",
+    "AssemblyVersion": "7.4.0.0",
+    "Punchline": "Become an accursed Hoarder!",
+    "Description": "Plugin to help farming DeepDungeon Hoards (...for you).7.4兼容版，但是懒得维护自动雇员就去掉了",
+    "InternalName": "HoardFarm",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "Tags": [
+        "hoard",
+        "farm",
+        "help",
+        "hoarder",
+        "accursed",
+        "achievement"
+    ],
+    "RepoUrl": "https://github.com/Jukkales/HoardFarm",
+    "IconUrl": "https://github.com/Jukkales/HoardFarm/raw/main/icon.png"
+}
+
 ]
