@@ -1,5 +1,24 @@
 [
   {
+    "Author": "Haselnussbomber",
+    "Name": "HaselDebug",
+    "InternalName": "HaselDebug",
+    "AssemblyVersion": "1.51.1.1",
+    "Description": "开发者工具",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Latihas/HaselDebug",
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "各种调试工具(汉化中)",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Latihas/HaselDebug/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Latihas/HaselDebug/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Latihas/HaselDebug/releases/latest/download/latest.zip"
+  },
+  {
     "Author": "Usagi, Latihas",
     "Name": "IINACTEx",
     "InternalName": "IINACTEx",
