@@ -1,0 +1,45 @@
+name: repo.json
+on:
+  workflow_dispatch:
+  push:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: EnvVar
+        run: |
+          echo "PROJECTS=SkyEye IINACTEx LatihasChocobo LatihasExport" >> $GITHUB_ENV
+          echo "DOWNLOAD_URL_TEMPLATE=https://github.com/Latihas/\${PROJECT}/releases/latest/download/latest.zip" >> $GITHUB_ENV
+      - name: Mkdir
+        run: mkdir -p temp_json processed_json
+
+      - name: 下载并处理所有项目的JSON文件
+        run: |
+          for PROJECT in ${PROJECTS[@]}; do
+            echo "====================================="
+            echo "Processing: $PROJECT"
+            JSON_URL="https://github.com/Latihas/${PROJECT}/releases/latest/download/${PROJECT}.json"
+            curl -L -o "temp_json/${PROJECT}.json" "$JSON_URL"
+            DOWNLOAD_LINK=$(echo $DOWNLOAD_URL_TEMPLATE | sed "s/\${PROJECT}/$PROJECT/")
+            jq --arg dl "$DOWNLOAD_LINK" \
+              '. + {
+                "DownloadLinkInstall": $dl,
+                "DownloadLinkTesting": $dl,
+                "DownloadLinkUpdate": $dl
+              }' \
+              "temp_json/${PROJECT}.json" > "processed_json/${PROJECT}.json"
+          done
+      - name: Write repo.json
+        run: |
+          jq -s '.' processed_json/*.json > repo.json
+          echo "✅ Generated repo.json with ${#PROJECTS[@]} Projects"
+          cat repo.json
+      - name: 提交并推送更改到仓库
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "CI: repo.json"
+          add: "repo.json"
