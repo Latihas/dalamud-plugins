@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v6
       - name: EnvVar
         run: |
-          echo "PROJECTS=SkyEye IINACTEx LatihasChocobo LatihasExport" >> $GITHUB_ENV
+          echo "PROJECTS=SkyEye IINACTEx LatihasChocobo LatihasExport HaselDebug" >> $GITHUB_ENV
           echo "DOWNLOAD_URL_TEMPLATE=https://github.com/Latihas/\${PROJECT}/releases/latest/download/latest.zip" >> $GITHUB_ENV
       - name: Mkdir
         run: mkdir -p temp_json processed_json
