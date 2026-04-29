@@ -34,7 +34,7 @@ jobs:
           done
       - name: Write repo.json
         run: |
-          jq -s 'add' processed_json/*.json ./temp.json > repo.json
+          jq -s 'map(if type == "object" then [.] else . end) | add' processed_json/*.json ./temp.json > repo.json
           cat repo.json
       - name: Commit
         uses: EndBug/add-and-commit@v9
