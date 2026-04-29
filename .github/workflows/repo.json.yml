@@ -8,7 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout  # 拉取代码（包含根目录的temp.json）
+      - name: Checkout
         uses: actions/checkout@v6
       - name: EnvVar
         run: |
@@ -32,14 +32,12 @@ jobs:
               }' \
               "temp_json/${PROJECT}.json" > "processed_json/${PROJECT}.json"
           done
-      - name: Write repo.json  # 关键修改：合并处理后的项目 + 根目录temp.json
+      - name: Write repo.json
         run: |
-          # jq -s 合并：processed_json所有文件 + 仓库根目录的temp.json
-          jq -s '.' processed_json/*.json ./temp.json > repo.json
-          echo "✅ 成功生成 repo.json，已整合 temp.json 内容"
+          jq -s 'add' processed_json/*.json ./temp.json > repo.json
           cat repo.json
       - name: Commit
         uses: EndBug/add-and-commit@v9
         with:
-          message: "CI: repo.json (整合 temp.json)"
+          message: "CI: repo.json"
           add: "repo.json"
