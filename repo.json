@@ -124,7 +124,10 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/extrant/IMGSave/refs/heads/main/FFXivStorkLauncher/NPATool.png",
     "Punchline": "FFXIV NPATool",
-    "AcceptsFeedback": true
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/FFXIVNetworkPacketAnalysisTool.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/FFXIVNetworkPacketAnalysisTool.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/FFXIVNetworkPacketAnalysisTool.zip"
   },
   {
     "Author": "The Combat Reborn Team",
@@ -146,6 +149,9 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
-    "AcceptsFeedback": true
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/BossModReborn.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/BossModReborn.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/BossModReborn.zip"
   }
 ]
