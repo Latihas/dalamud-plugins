@@ -1,7 +1,6 @@
 name: repo.json
 on:
   workflow_dispatch:
-  push:
   repository_dispatch:
 permissions:
   contents: write
