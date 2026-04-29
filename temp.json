@@ -1,22 +1,4 @@
-[{
-		"Author": "veyn, AtmoOmen",
-		"Name": "vnavmesh",
-		"InternalName": "vnavmesh",
-		"AssemblyVersion": "0.5.1.0",
-		"Description": "不仅会自动寻路, 还能自动避障(API15先行版)",
-		"ApplicableVersion": "any",
-		"DalamudApiLevel": 15,
-		"LoadRequiredState": 0,
-		"LoadSync": false,
-		"CanUnloadAsync": false,
-		"LoadPriority": 0,
-		"IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/CN/Resources/icon2.png",
-		"Punchline": "行遍千里!",
-		"AcceptsFeedback": true,
-		"DownloadLinkInstall": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/vnavmesh.zip",
-		"DownloadLinkTesting": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/vnavmesh.zip",
-		"DownloadLinkUpdate": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/vnavmesh.zip"
-	},
+[
 	{
 		"Author": "Siren",
 		"Name": "FFXIV Network Packet Analysis Tool",
@@ -92,5 +74,31 @@
 	"DownloadLinkInstall": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/BOCCHI.zip",
 		"DownloadLinkTesting": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/BOCCHI.zip",
 		"DownloadLinkUpdate": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/BOCCHI.zip"
+},{
+  "Author": "daemitus, croizat",
+  "Name": "Something Need Doing",
+  "InternalName": "SomethingNeedDoing",
+  "AssemblyVersion": "0.0.0.0",
+  "Description": "Now for more than crafting!",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+  "Tags": [
+    "crafting",
+    "automation",
+    "macros",
+    "lua",
+    "scripting"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Jaksuhn/SomethingNeedDoing/master/res/orc2.png",
+  "Punchline": "Work work.",
+  "AcceptsFeedback": true,
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/SomethingNeedDoing.zip",
+		"DownloadLinkTesting": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/SomethingNeedDoing.zip",
+		"DownloadLinkUpdate": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/SomethingNeedDoing.zip"
 }
 ]
