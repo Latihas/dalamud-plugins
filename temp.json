@@ -1,34 +1,8 @@
-[
-	{
-		"Author": "The Combat Reborn Team",
-		"Name": "Bossmod Reborn",
-		"InternalName": "BossModReborn",
-		"AssemblyVersion": "7.5.0.0",
-		"Description": "Boss mod.(API15先行版)",
-		"ApplicableVersion": "any",
-		"RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-		"DalamudApiLevel": 15,
-		"LoadRequiredState": 0,
-		"LoadSync": false,
-		"CanUnloadAsync": false,
-		"LoadPriority": 0,
-		"ImageUrls": [
-			"https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image1.png",
-			"https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image2.png",
-			"https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
-		],
-		"IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
-		"Punchline": "Don't fail at raid mechanics anymore",
-		"AcceptsFeedback": true,
-		"DownloadLinkInstall": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/BossModReborn.zip",
-		"DownloadLinkTesting": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/BossModReborn.zip",
-		"DownloadLinkUpdate": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/BossModReborn.zip"
-	},
-{
+[{
   "Author": "Faye",
   "Name": "Better Occult Crescent & Chest Helper Interface",
   "InternalName": "BOCCHI",
-  "AssemblyVersion": "2.1.2.1",
+  "AssemblyVersion": "2.1.2.2",
   "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
   "ApplicableVersion": "any",
   "Tags": [
