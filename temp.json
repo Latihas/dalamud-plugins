@@ -1,25 +1,5 @@
 [
 	{
-		"Author": "Siren",
-		"Name": "FFXIV Network Packet Analysis Tool",
-		"InternalName": "FFXIVNetworkPacketAnalysisTool",
-		"AssemblyVersion": "0.0.0.3",
-		"Description": "A sample plugin.(API15先行版)",
-		"ApplicableVersion": "any",
-		"RepoUrl": "https://github.com/extrant/FFXIVNetworkPacketAnalysisTool",
-		"DalamudApiLevel": 15,
-		"LoadRequiredState": 0,
-		"LoadSync": false,
-		"CanUnloadAsync": false,
-		"LoadPriority": 0,
-		"IconUrl": "https://raw.githubusercontent.com/extrant/IMGSave/refs/heads/main/FFXivStorkLauncher/NPATool.png",
-		"Punchline": "FFXIV NPATool",
-		"AcceptsFeedback": true,
-		"DownloadLinkInstall": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/FFXIVNetworkPacketAnalysisTool.zip",
-		"DownloadLinkTesting": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/FFXIVNetworkPacketAnalysisTool.zip",
-		"DownloadLinkUpdate": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/FFXIVNetworkPacketAnalysisTool.zip"
-	},
-	{
 		"Author": "The Combat Reborn Team",
 		"Name": "Bossmod Reborn",
 		"InternalName": "BossModReborn",
@@ -74,31 +54,5 @@
 	"DownloadLinkInstall": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/BOCCHI.zip",
 		"DownloadLinkTesting": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/BOCCHI.zip",
 		"DownloadLinkUpdate": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/BOCCHI.zip"
-},{
-  "Author": "daemitus, croizat",
-  "Name": "Something Need Doing",
-  "InternalName": "SomethingNeedDoing",
-  "AssemblyVersion": "14.13",
-  "Description": "Now for more than crafting!",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-  "Tags": [
-    "crafting",
-    "automation",
-    "macros",
-    "lua",
-    "scripting"
-  ],
-  "DalamudApiLevel": 15,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/Jaksuhn/SomethingNeedDoing/master/res/orc2.png",
-  "Punchline": "Work work.",
-  "AcceptsFeedback": true,
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/SomethingNeedDoing.zip",
-		"DownloadLinkTesting": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/SomethingNeedDoing.zip",
-		"DownloadLinkUpdate": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/SomethingNeedDoing.zip"
 }
 ]
