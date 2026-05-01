@@ -3,7 +3,7 @@
     "Author": "Siren",
     "Name": "FFXIV Network Packet Analysis Tool",
     "InternalName": "FFXIVNetworkPacketAnalysisTool",
-    "AssemblyVersion": "0.0.0.5",
+    "AssemblyVersion": "0.0.0.6",
     "Description": "一个用于分析游戏内网络包详细内容的Debug工具，更推荐开发人员使用。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
