@@ -37,6 +37,26 @@
     "DownloadLinkUpdate": "https://github.com/Latihas/HaselDebug/releases/latest/download/latest.zip"
   },
   {
+    "Author": "Jukkales",
+    "Name": "HoardFarm",
+    "InternalName": "HoardFarm",
+    "AssemblyVersion": "1.5.2.6",
+    "Description": "帮助获取深层迷宫宝藏的插件 (...为了你)",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Jukkales/HoardFarm",
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://github.com/Jukkales/HoardFarm/raw/main/icon.png",
+    "Punchline": "成为埋藏的宝藏家!",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Latihas/HoardFarm/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Latihas/HoardFarm/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Latihas/HoardFarm/releases/latest/download/latest.zip"
+  },
+  {
     "Author": "Usagi, Latihas",
     "Name": "IINACTEx",
     "InternalName": "IINACTEx",
