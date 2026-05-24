@@ -40,7 +40,7 @@
     "Author": "Jukkales",
     "Name": "HoardFarm",
     "InternalName": "HoardFarm",
-    "AssemblyVersion": "1.5.2.6",
+    "AssemblyVersion": "1.5.2.7",
     "Description": "帮助获取深层迷宫宝藏的插件 (...为了你)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Jukkales/HoardFarm",
