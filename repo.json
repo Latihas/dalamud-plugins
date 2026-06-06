@@ -104,7 +104,7 @@
     "Author": "Latihas",
     "Name": "LatihasDupDll",
     "InternalName": "LatihasDupDll",
-    "AssemblyVersion": "7.50.2.2",
+    "AssemblyVersion": "7.51.0.0",
     "Description": "仅会检查在线安装的插件",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Latihas/LatihasDupDll",
