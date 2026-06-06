@@ -123,7 +123,7 @@
     "Author": "Latihas",
     "Name": "LatihasExport",
     "InternalName": "LatihasExport",
-    "AssemblyVersion": "7.50.1.2",
+    "AssemblyVersion": "7.51.0.0",
     "Description": "支持导出收集数据，半自动完成采集/战斗理符",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Latihas/LatihasExport",
