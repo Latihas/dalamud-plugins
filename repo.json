@@ -180,7 +180,7 @@
     "Author": "Uiharu,NiGuangOwO,Tabris",
     "Name": "XTeleportOnline",
     "InternalName": "Teleport",
-    "AssemblyVersion": "0.0.6.3",
+    "AssemblyVersion": "0.0.0.1",
     "Description": "/tpmain open main window; modified XTP variant",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Dragonw233/XTeleport",
@@ -192,8 +192,8 @@
     "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/icons/tp.jpg",
     "Punchline": "XTeleportOnline",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/Teleport/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/Teleport/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/Teleport/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dragonw233/DalamudPlugins/main/plugins/Teleport/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dragonw233/DalamudPlugins/main/plugins/Teleport/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dragonw233/DalamudPlugins/main/plugins/Teleport/latest.zip"
   }
 ]
