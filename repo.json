@@ -192,8 +192,8 @@
     "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/icons/tp.jpg",
     "Punchline": "XTeleportOnline",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dragonw233/DalamudPlugins/main/plugins/Teleport/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dragonw233/DalamudPlugins/main/plugins/Teleport/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dragonw233/DalamudPlugins/main/plugins/Teleport/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/Teleport/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/Teleport/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/Teleport/latest.zip"
   }
 ]
