@@ -60,7 +60,7 @@
     "Author": "Usagi, Latihas",
     "Name": "IINACTEx",
     "InternalName": "IINACTEx",
-    "AssemblyVersion": "7.51.1.4",
+    "AssemblyVersion": "7.51.1.5",
     "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Latihas/IINACTEx",
@@ -175,25 +175,5 @@
     "DownloadLinkInstall": "https://github.com/Latihas/TTC_Siren/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/Latihas/TTC_Siren/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Latihas/TTC_Siren/releases/latest/download/latest.zip"
-  },
-  {
-    "Author": "Uiharu,NiGuangOwO,Tabris",
-    "Name": "XTeleportOnline",
-    "InternalName": "Teleport",
-    "AssemblyVersion": "7.0.0.4",
-    "Description": "基于初春佬的 XTP 项目更新修复版。",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Dragonw233/XTeleport",
-    "DalamudApiLevel": 15,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/icons/tp.jpg",
-    "Punchline": "XTeleportOnline",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dragonw233/DalamudPlugins/main/plugins/Teleport/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dragonw233/DalamudPlugins/main/plugins/Teleport/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dragonw233/DalamudPlugins/main/plugins/Teleport/latest.zip"
   }
 ]
