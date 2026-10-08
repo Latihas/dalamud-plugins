@@ -1,5 +1,36 @@
 [
   {
+    "Author": "Styr1x, Latihas",
+    "Name": "Browsingway.WebView2",
+    "InternalName": "Browsingway",
+    "AssemblyVersion": "1.7.2.1",
+    "Description": "Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\r\nUse the settings button below or the '/bw config' command to configure.\r\nBased on the BrowserHost plugin by ackwell....",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Latihas/Browsingway",
+    "Tags": [
+      "framework",
+      "browser",
+      "inlay",
+      "overlay",
+      "chromium",
+      "act",
+      "youtube",
+      "website",
+      "video"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Browser overlays rendered in-game. (WebView2, CN & EN)",
+    "Changelog": "- WebView2",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Latihas/Browsingway/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Latihas/Browsingway/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Latihas/Browsingway/releases/latest/download/latest.zip"
+  },
+  {
     "Author": "Siren",
     "Name": "FFXIV Network Packet Analysis Tool",
     "InternalName": "FFXIVNetworkPacketAnalysisTool",
