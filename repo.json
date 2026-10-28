@@ -170,6 +170,24 @@
     "DownloadLinkUpdate": "https://github.com/Latihas/LatihasExport/releases/latest/download/latest.zip"
   },
   {
+    "Author": "Latihas",
+    "Name": "LatihasKTG",
+    "InternalName": "LatihasKTG",
+    "AssemblyVersion": "7.57.0.0",
+    "Description": "LatihasKTG",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "魔光键影助手",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Latihas/LatihasKTG/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Latihas/LatihasKTG/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Latihas/LatihasKTG/releases/latest/download/latest.zip"
+  },
+  {
     "Author": "Latihas, Shiyuvi",
     "Name": "PluginDock",
     "InternalName": "PluginDockStandalone",
