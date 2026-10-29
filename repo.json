@@ -191,7 +191,7 @@
     "Author": "Latihas, Shiyuvi",
     "Name": "PluginDock",
     "InternalName": "PluginDockStandalone",
-    "AssemblyVersion": "7.57.0.0",
+    "AssemblyVersion": "7.57.0.1",
     "Description": "把其他插件的主界面/设置入口或是指令收纳到悬浮图标栏里",
     "ApplicableVersion": "any",
     "Tags": [
